@@ -11,6 +11,8 @@ public class Main {
                 break;
             case "green":
                 System.out.println("Ехать.");
+                System.out.println("Ехать.");
+                System.out.println("Ехать.");
                 break;
         }
     }
